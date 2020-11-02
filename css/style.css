@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.goatse{
+    float: left;
+    margin-left: 650px;
+    margin-top: 250px;
+    transition: transform 4s cubic-bezier(0.12, 0.47, 1, 1.07); 
+    
+}
+.goatse:hover{
+transform: scale(2);
+}
+.body{
+    background-color: black;
+}    
