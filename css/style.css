@@ -2,11 +2,11 @@
     box-sizing: border-box;
 }
 
-
+.body{
+    text-align: center;
+}
 .goatse{
-    float: left;
-    margin-left: 650px;
-    margin-top: 250px;
+    margin-top: 300px;
     transition: transform 4s cubic-bezier(0.12, 0.47, 1, 1.07); 
     
 }
